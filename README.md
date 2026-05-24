@@ -1,4 +1,4 @@
-## Hi there 👋
+You can find my git repositories at https://9o.is/git
 
 <!--
 **jcabrra/jcabrra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
